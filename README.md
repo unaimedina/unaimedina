@@ -24,7 +24,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <center>
-    <img class="led-bar" src="assets/media/led-bar.gif">
+    <img class="led-bar" src="led-bar.gif">
     <br>
     <h2>Hi there 👋</h2>
     <h3>I'm <font color="red">moonly</font></h3>
@@ -44,5 +44,5 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlyy&layout=compact&theme=synthwave" />
     </a>
     <br>
-    <img class="led-bar" src="assets/media/led-bar.gif">
+    <img class="led-bar" src="led-bar.gif">
 </center>

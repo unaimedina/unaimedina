@@ -5,9 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=moonlyy" alt="Profile Views">
   </p>
 </a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ValoriomMX&show_icons=true&text_color=ED39DC&bg_color=181818&title_color=3EDAFF&icon_color=ffffff" alt="Valoriom" /></p>
-
 <a href="https://github.com/moonlyy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=moonlyy&show_icons=true&count_private=true&theme=synthwave" />
 </a>

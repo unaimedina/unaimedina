@@ -1,48 +1,70 @@
-<style>
-    * {
-        background-color: #171515;
-    }
-    .led-bar {
-        margin-bottom: -60px;
-    }
+<h1 align="center">
+    ¡Hola! 
+    <img src="https://user-images.githubusercontent.com/57642291/115981321-b7a44c80-a58a-11eb-8109-79aa8bcf0698.gif" width="25px">
+</h1>
+<h2 align="center" style="margin-top:-20px">Soy moonly</h2>
 
-    h2 {
-        color: white;
-    }
+<blockquote>
+    <p align="center">
+       Soy un junior Developer autodidacta capacitado y con ganas de aprender más.<br>
+       Puedo hacer backend con Java y con JavaScript, aunque tengo más experiencia con JS.<br>
+       Más información, en mi <a href="https://moonly.tech/portfolio" style="text-decoration: none; color: black;">portfolio</a>
+        <p />
+</blockquote>
 
-    h3 {
-        color: white;
-        margin-top: -10px;
-    }
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=moonlyy&color=blue" align="center">
+</div>
 
-    i {
-        margin-top: -30px;
-        color: white;
-    }
+<h3 align="center">
+    💻 ¿Con qué trabajo?
+</h3>
 
-</style>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div align="center">
+    <p align="center">
+        - JavaScript (Node)<br />
+        - CSS <br />
+        - Java <br />
+        - Git
+        <p />
+</div>
 
-<center>
-    <img class="led-bar" src="led-bar.gif">
-    <br>
-    <h2>Hi there 👋</h2>
-    <h3>I'm <font color="red">moonly</font></h3>
-    <a href="https://twitter.com/unaisitx"><i class="fa fa-twitter"></i></a>
-    <a href="https://instagram.com/u.fdezzm"><i class="fa fa-instagram"></i></a>
-    <a href="https://twitch.tv/moonlyy_"><i class="fa fa-twitch"></i></a>
-    <a href="https://github.com/Moonlyy">
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=moonlyy" alt="Profile Views">
-      </p>
-    </a>
+<h3 align="center">
+    👑 Proyectos en los que he estado/colaborado.
+</h3>
+
+<div align="center">
+    <p align="center">
+        - Proyectos menores sin mayor impacto, si descubro alguno, actualizo el README.md
+    </p>
+</div>
+
+<h3 align="center">
+    🔧 Proyectos en los que estoy trabajando
+</h3>
+
+<div align="center">
+    <p align="center">
+        - Estoy creando una página especializada en la competición de varios videojuegos<br>
+        (VALORANT, Counter Strike: Global Offensive, League of Legends...), pero está aún en fase de brain-storming
+        <br><br>
+        - Estoy haciendo un Bot de <a href="https://discord.gg">Discord</a> alrededor de la API: <b><a href="https://www.npmjs.com/package/discord-together">Discord-Together</a></b
+            </p>
+</div>
+
+<h3 align="center">
+    📊 Estadísticas
+</h3>
+
+<div align="center">
     <a href="https://github.com/moonlyy">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=moonlyy&show_icons=true&count_private=true&theme=synthwave" />
-    </a>
-    <br>
-    <a href="https://github.com/moonlyy">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlyy&layout=compact&theme=synthwave" />
-    </a>
-    <br>
-    <img class="led-bar" src="led-bar.gif">
-</center>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=moonlyy&show_icons=true&count_private=true&theme=dark" />
+      </a>
+      <br>
+      <a href="https://github.com/moonlyy">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlyy&layout=compact&theme=dark" />
+      </a>
+</div>
+
+#
+![](https://hit.yhype.me/github/profile?user_id=75707587)

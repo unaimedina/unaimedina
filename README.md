@@ -2,13 +2,14 @@
 ##
 ### 🦔 About Me
 My name is Unai and I am a Junior Developer.
-- 🔭 I’m currently working on [Kerfu.net](https://twitter.com/KerfuNetwork)
-- 🌱 I’m currently learning Java, PHP & JavaScript
+- 🔭 I’m currently studying Administration of Computer Systems on Network (ACSN)
+- ☕ (Almost) Fluent in Java, JavaScript
+- 🌱 Currently learning C++, PHP.
 ##
 ### 📫 How to reach me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/unaisitx)
-[![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://moonly.tech/discord)
-[![E-MAIL](https://img.shields.io/badge/EMAIL-282e54?style=for-the-badge&logo=mail&logoColor=white)](mailto:unaisitx@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/unai-medina-fern%C3%A1ndez-328a9a209)
+[![E-MAIL](https://img.shields.io/badge/EMAIL-282e54?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unaisitx@gmail.com)
 ##
 ### 💻 Profile Stats
 <a href="https://github.com/Moonlyy">

@@ -2,7 +2,7 @@
 ##
 ### 🦔 About Me
 My name is Unai and I am a Junior Developer.
-- 🔭 I’m currently studying Administration of Computer Systems on Network
+- 🔭 I’m currently studying Sys. Admin
 - ☕ (Almost) Fluent in Java, JavaScript
 - 🌱 Currently learning C++, PHP.
 ##

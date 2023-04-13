@@ -21,7 +21,7 @@ My name is Unai and I am a Junior Developer.
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=unaimedina&show_icons=true&count_private=true&theme=synthwave" />
   </a>
 </div>
-<div style="margin-top: 15px;">
+<div style="margin-top: 50px;">
   <a style="margin-left:10px;" href="https://github.com/unaimedina">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaimedina&layout=compact&theme=synthwave" />
   </a>

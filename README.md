@@ -16,11 +16,15 @@ My name is Unai and I am a Junior Developer.
     <img src="https://komarev.com/ghpvc/?username=unaimedina" alt="Profile Views">
   </p>
 </a>
-<a href="https://github.com/unaimedina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unaimedina&show_icons=true&count_private=true&theme=synthwave" />
-</a>
-<a style="margin-left:10px;" href="https://github.com/unaimedina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaimedina&layout=compact&theme=synthwave" />
-</a>
+<div>
+  <a href="https://github.com/unaimedina">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=unaimedina&show_icons=true&count_private=true&theme=synthwave" />
+  </a>
+</div>
+<div>
+  <a style="margin-left:10px;" href="https://github.com/unaimedina">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaimedina&layout=compact&theme=synthwave" />
+  </a>
+</div>
 
 ##

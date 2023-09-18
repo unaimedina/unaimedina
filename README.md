@@ -1,8 +1,8 @@
 ### Hello! 👋
 ##
 ### 🦔 About Me
-My name is Unai and I am a Junior Developer.
-- 🔭 I’m currently studying Sys. Admin
+My name is Unai Medina and I am a Junior Developer.
+- 🔭 I’m currently studying Multiplatform Aplication Development
 - ☕ (Almost) Fluent in Java, JavaScript
 - 🌱 Currently learning C++, PHP.
 ##

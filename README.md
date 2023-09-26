@@ -17,7 +17,7 @@ I have basic knowledge in:
 I'd be thrilled to connect with you! You can reach me on the following platforms:
 
 - GitHub: [umedina](https://github.com/unaimedina)
-- LinkedIn: [Unai Medina Fernández]([https://www.linkedin.com/in/pol-gonzalez-miranda-176221205/](https://www.linkedin.com/in/unai-medina-fdez/))
+- LinkedIn: [Unai Medina Fernández](https://www.linkedin.com/in/unai-medina-fdez/)
 - Email: [umdafdez@gmail.com](mailto:umdafdez@gmail.com)
 - Website: [unai.space](https://unai.space)
 

@@ -9,7 +9,7 @@ I am deeply passionate about programming and technology, finding joy in continua
 I have studied: 
 - Microcomputer Systems and Networks
 - Network Systems Administration with a cybersecurity profile (ASIX, first year)
-- Multiplatform Application Development (DAM, second year).
+- Multiplatform Application Development (DAM), currently enrolled in the second year.
 
 Technical Skills
 

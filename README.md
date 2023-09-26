@@ -12,6 +12,16 @@ I have basic knowledge in:
 - Programming languages: **Java, C++, JavaScript, HTML, CSS.**
 - Databases: **Oracle DB, MySQL, MongoDB.**
 
+## 📕 ¬ My Projects
+
+I have initiated several projects, both personal and collaborative, aimed at improving user experience and endeavoring to launch new products or services. Below, you will find a record of some of these projects on the platform:
+
+### ⚡ Voltic Studios
+
+Voltic Studios is a collaborative group of colleagues committed to enhancing our code and providing solutions tailored to small businesses.
+- Github: [Voltic Studios](https://github.com/Voltic-Studios)
+- X/Twitter: [@VolticStudio](https://twitter.com/VolticStudio)
+
 ## 🤝 ¬ Contact
 
 I'd be thrilled to connect with you! You can reach me on the following platforms:

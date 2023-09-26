@@ -1,4 +1,4 @@
-# 👋 ¬ Welcome to my profile
+# 👋 Welcome to my profile
 
 My name is Unai Medina and I am a Junior Developer. Here, you can find information about my work and my skills.
 

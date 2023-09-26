@@ -9,8 +9,8 @@ I am deeply passionate about programming and technology, finding joy in continua
 Technical Skills
 
 I have basic knowledge in:
-- Programming languages: Java, C++, JavaScript, HTML, CSS.
-- Databases: Oracle DB, MySQL, MongoDB.
+- Programming languages: **Java, C++, JavaScript, HTML, CSS.**
+- Databases: **Oracle DB, MySQL, MongoDB.**
 
 ## 🤝 ¬ Contact
 

@@ -7,9 +7,9 @@ My name is Unai Medina and I am a Junior Developer. Here, you can find informati
 I am deeply passionate about programming and technology, finding joy in continually learning about new programming languages and exploring various domains of software development.
 
 I have studied: 
-[X] Microcomputer Systems and Networks
-[X] Network Systems Administration with a cybersecurity profile (ASIX, first year)
-[ ] Multiplatform Application Development (DAM, second year).
+- Microcomputer Systems and Networks
+- Network Systems Administration with a cybersecurity profile (ASIX, first year)
+- Multiplatform Application Development (DAM, second year).
 
 Technical Skills
 

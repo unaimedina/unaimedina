@@ -1,40 +1,59 @@
-# 👋 Welcome to my profile
+# 👨‍💻 About Me:
+<div>📋 Unai Medina Fernández
+<div>👷‍♂️ Now working in Indra Systems (IT Techie)</div>
+<div>🍝 Doing <del>code</del> spaghettis into Voltic Studios</div>
+<div>🏫 Actually studying Cross-platform application development in Terrassa</div>
+<div>📚 Now learning Android Studio (Kotlin)</div>
 
-My name is Unai Medina and I am a Junior Developer. Here, you can find information about my work and my skills.
 
-## 🙍‍♂️ ¬ About Me
 
-I am deeply passionate about programming and technology, finding joy in continually learning about new programming languages and exploring various domains of software development.
+## 🌐 Socials:
 
-I have studied: 
-- Microcomputer Systems and Networks
-- Network Systems Administration with a cybersecurity profile (ASIX, first year)
-- Multiplatform Application Development (DAM), currently enrolled in the second year.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/unnaaiimedinaa) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/unnaaiimedina)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unai-medina-fdez/)
 
-Technical Skills
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/_-CPP-F34B7D.svg?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) 
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-I have basic knowledge in:
-- Programming languages: **Java, C++, JavaScript, HTML, CSS.**
-- Databases: **Oracle DB, MySQL, MongoDB.**
+and every day learning more technologies!
 
-## 📕 ¬ My Projects
 
-I have initiated several projects, both personal and collaborative, aimed at improving user experience and endeavoring to launch new products or services. Below, you will find a record of some of these projects on the platform:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=unaimedina&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=unaimedina&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=unaimedina&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ⚡ Voltic Studios
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=unaimedina&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Voltic Studios is a collaborative group of colleagues committed to enhancing our code and providing solutions tailored to small businesses.
-- Github: [Voltic Studios](https://github.com/Voltic-Studios)
-- X/Twitter: [@VolticStudio](https://twitter.com/VolticStudio)
-- Website: [www.voltic.site](https://voltic.site)
+  ## 💰 Help me
+  You can make me a donation following this links:
 
-## 🤝 ¬ Contact
-
-I'd be thrilled to connect with you! You can reach me on the following platforms:
-
-- GitHub: [umedina](https://github.com/unaimedina)
-- LinkedIn: [Unai Medina Fernández](https://www.linkedin.com/in/unai-medina-fdez/)
-- Email: [umdafdez@gmail.com](mailto:umdafdez@gmail.com)
-- Website: [unai.space](https://unai.space)
-
-Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or if you're interested in collaborating on a project. Don't hesitate to contact me.
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/unaimedina) 
+  [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/0GHz) 

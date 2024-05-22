@@ -3,7 +3,7 @@
 <div>👷‍♂️ Now working in Indra Systems (IT Techie)</div>
 <div>🍝 Doing <del>code</del> spaghettis into Voltic Studios</div>
 <div>🏫 Actually studying Cross-platform application development in Terrassa</div>
-<div>📚 Now learning Android Studio (Kotlin)</div>
+<div>📚 Now doing stuff on Astro.js</div>
 
 
 
@@ -40,6 +40,7 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 and every day learning more technologies!
 

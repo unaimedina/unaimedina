@@ -2,7 +2,6 @@
 <div>📋 Unai Medina Fernández
 <div>👷‍♂️ Now working in Indra Systems (IT Techie)</div>
 <div>🍝 Doing <del>code</del> spaghettis into Voltic Studios</div>
-<div>🏫 Actually studying Cross-platform application development in Terrassa</div>
 <div>📚 Now doing stuff on Astro.js</div>
 
 

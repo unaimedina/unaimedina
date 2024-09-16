@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unai-medina-fdez/)
-[![Portfolio](https://img.shields.io/badge/Personal%20Portfolio-blue?style=for-the-badge&logo=wolfram)](https://unai.lol)
+[![Portfolio](https://img.shields.io/badge/Personal%20Portfolio-blue?style=for-the-badge&logo=wolfram&logoColor=white)](https://unai.lol)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/_-CPP-F34B7D.svg?style=for-the-badge)
@@ -37,7 +37,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 and every day learning more technologies!

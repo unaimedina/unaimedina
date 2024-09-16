@@ -8,9 +8,8 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/unnaaiimedinaa) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/unnaaiimedina)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unai-medina-fdez/)
+[![Portfolio](https://img.shields.io/badge/Personal%20Portfolio-blue?style=for-the-badge&logo=wolfram)](https://unai.lol)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/_-CPP-F34B7D.svg?style=for-the-badge)

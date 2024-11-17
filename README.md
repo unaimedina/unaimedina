@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/unai-medina-fdez/)
-[![Portfolio](https://img.shields.io/badge/Personal%20Portfolio-blue?style=for-the-badge&logo=wolfram&logoColor=white)](https://unai.lol)
+[![Portfolio](https://img.shields.io/badge/Personal%20Portfolio-blue?style=for-the-badge&logo=wolfram&logoColor=white)](https://umedina.dev)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/_-CPP-F34B7D.svg?style=for-the-badge)

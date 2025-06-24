@@ -1,7 +1,7 @@
 # 👨‍💻 About Me:
 <div>📋 Unai Medina Fernández
-<div>👷‍♂️ Now working in Indra Systems (IT Specialist)</div>
-<div>🍝 Doing <del>code</del> spaghettis into <a href="https://github.com/Voltic-Studios">Voltic Studios</a></div>
+<div>👷‍♂️ Not working at the moment </div>
+<div>🍝 Doing <del>code</del>spaghettis into <a href="https://github.com/Voltic-Studios">Voltic Studios</a></div>
 <div>📚 Now doing stuff on Astro.js</div>
 
 

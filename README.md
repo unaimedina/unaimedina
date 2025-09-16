@@ -52,6 +52,17 @@ and every day learning more technologies!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=unaimedina&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## __________________________________________________________________________________
+
+<div align="center">
+  <a href="https://open.spotify.com/user/w8elzv7t0nm7s3apc8xhqnpv1">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=w8elzv7t0nm7s3apc8xhqnpv1&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
+## __________________________________________________________________________________
+
   ## 💰 Help me
   You can make me a donation following this links:
 
